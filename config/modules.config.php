@@ -8,6 +8,8 @@
  * List of enabled modules for this application.
  */
 return [
+    'Zend\Mvc\I18n',
+    'Zend\I18n',
     'Zend\Db',
     'Zend\Filter',
     'Zend\Hydrator',
